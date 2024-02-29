@@ -1,0 +1,18 @@
+.btn {
+  width: 70px;
+  background-color: #505050;
+  color: white;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
